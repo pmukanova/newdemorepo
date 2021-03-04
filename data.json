@@ -11,8 +11,8 @@
     {
       "first_name" : "Eric",
       "last_name" : "Jones",
-      "address" : "52 East 67 st, NY, 11009",
-      "pin" : 3021,
+      "address" : "72 East 67 st, NY, 11009",
+      "pin" : 321,
       "account_number": 1234567892,
       "balance" : 1000
 
